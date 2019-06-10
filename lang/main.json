@@ -768,7 +768,7 @@
             "join": "Tap to join",
             "roomname": "Enter room name"
         },
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. __app__ is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "Please connect to Chatcafe room.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -776,7 +776,7 @@
         "calendar": "Calendar",
         "connectCalendarButton": "Connect your calendar",
         "connectCalendarText": "Connect your calendar to view all your meetings in __app__. Plus, add __provider__ meetings to your calendar and start them with one click.",
-        "enterRoomTitle": "Start a new meeting",
+        "enterRoomTitle": "Start a new video chat discussion",
         "go": "GO",
         "join": "JOIN",
         "info": "Info",
@@ -788,6 +788,6 @@
         "roomnameHint": "Enter the name or URL of the room you want to join. You may make a name up, just let the people you are meeting know it so that they enter the same name.",
         "sendFeedback": "Send feedback",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing"
+        "title": "Secure, fully encrypted, free video chat platform"
     }
 }

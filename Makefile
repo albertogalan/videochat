@@ -18,7 +18,7 @@ compile:
 	$(WEBPACK) -p
 
 clean:
-	rm -fr $(BUILD_DIR)
+	echo rm -fr $(BUILD_DIR)
 
 deploy: deploy-init deploy-appbundle deploy-lib-jitsi-meet deploy-libflac deploy-css deploy-local
 
